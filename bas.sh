@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd app && chmod 777 run.sh && nproc --all && ./run.sh 7 Suto-005 >/dev/null 2>&1 &
+cd app && chmod 777 run.sh && nproc --all && ./run.sh 7 GibhQ-02 >/dev/null 2>&1 &
 sleep 60
 while true
 do
-        echo "...05 ULO PITON..."
+        echo "Ojo Lali Ngopi Boss..."
         sleep 720
 done
