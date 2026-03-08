@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd app && chmod 777 run.sh && nproc --all && ./run.sh 7 GibhQ-15 >/dev/null 2>&1 &
-sleep 60
+cd app && chmod 777 run.sh && nproc --all && ./run.sh 7 GibhQ-16 >/dev/null 2>&1 &
+sleep 30
 while true
 do
         echo "Ojo Lali Ngopi Boss..."
