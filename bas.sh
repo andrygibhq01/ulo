@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd app && chmod 777 run.sh && nproc --all && ./run.sh 6 Suto-13 >/dev/null 2>&1 &
+cd app && chmod 777 run.sh && nproc --all && ./run.sh 6 Suto-03 >/dev/null 2>&1 &
 sleep 30
 while true
 do
